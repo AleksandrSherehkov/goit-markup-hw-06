@@ -68,6 +68,7 @@ body {
 
 /* heder */
 header {
+  height: 80px;
   border-bottom: 1px solid #ececec;
 }
 
@@ -202,6 +203,7 @@ header {
   background-position: center;
   text-align: center;
 }
+
 .hero-title {
   margin-bottom: 30px;
   color: var(--third-text-color);
